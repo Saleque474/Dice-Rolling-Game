@@ -1,6 +1,8 @@
 # dice_game
 
 A new Flutter project.
+Tutorial of the project
+Youtube: https://youtu.be/HEYFrTpfMog
 
 ## Getting Started
 
